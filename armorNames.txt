@@ -1,0 +1,106 @@
+"FAIRY_BOOTS" Fairy Boots
+"LEAFLET_HAT" Leaflet Hat
+"LEAFLET_TUNIC" Leaflet Chestplate
+"LEAFLET_TROUSERS" Leaflet Leggings
+"LEAFLET_CHESTPLATE" Leaflet Chestplate
+"LEAFLET_LEGGINGS" Leaflet Leggings
+"LEAFLET_BOOTS" Leaflet Boots
+"FAIRY_LEGGINGS" Fairy Leggings
+"FAIRY_CHESTPLATE" Fairy Chestplate
+"CRYSTAL_BOOTS" Crystal Boots
+"CRYSTAL_LEGGINGS" Crystal Leggings
+"CRYSTAL_CHESTPLATE" Crystal Chestplate
+"CHESTPLATE_OF_THE_PACK" Chestplate of The Pack
+"BLAZE_CHESTPLATE" Blaze Chestplate
+"BLAZE_LEGGINGS" Blaze Leggings
+"BLAZE_BOOTS" Blaze Boots
+"SPONGE_BOOTS" Sponge Boots
+"SPONGE_LEGGINGS" Sponge Leggings
+"SPONGE_CHESTPLATE" Sponge Chestplate
+"SUPERIOR_DRAGON_CHESTPLATE" Superior Dragon Chestplate
+"SUPERIOR_DRAGON_LEGGINGS" Superior Dragon Leggings
+"SUPERIOR_DRAGON_BOOTS" Superior Dragon Boots
+"STRONG_DRAGON_CHESTPLATE" Strong Dragon Chestplate
+"STRONG_DRAGON_LEGGINGS" Strong Dragon Leggings
+"STRONG_DRAGON_BOOTS" Strong Dragon Boots
+"WISE_DRAGON_CHESTPLATE" Wise Dragon Chestplate
+"WISE_DRAGON_LEGGINGS" Wise Dragon Leggings
+"WISE_DRAGON_BOOTS" Wise Dragon Boots
+"YOUNG_DRAGON_CHESTPLATE" Young Dragon Chestplate
+"YOUNG_DRAGON_LEGGINGS" Young Dragon Leggings
+"YOUNG_DRAGON_BOOTS" Young Dragon Boots
+"UNSTABLE_DRAGON_CHESTPLATE" Unstable Dragon Chestplate
+"UNSTABLE_DRAGON_LEGGINGS" Unstable Dragon Leggings
+"UNSTABLE_DRAGON_BOOTS" Unstable Dragon Boots
+"OLD_DRAGON_CHESTPLATE" Old Dragon Chestplate
+"OLD_DRAGON_LEGGINGS" Old Dragon Leggings
+"OLD_DRAGON_BOOTS" Old Dragon Boots
+"PROTECTOR_DRAGON_CHESTPLATE" Protector Dragon Chestplate
+"PROTECTOR_DRAGON_LEGGINGS" Protector Dragon Leggings
+"PROTECTOR_DRAGON_BOOTS" Protector Dragon Boots
+"TARANTULA_HELMET" Tarantula Helmet
+"TARANTULA_LEGGINGS" Tarantula Leggings
+"ANGLER_CHESTPLATE" Angler Chestplate
+"ANGLER_LEGGINGS" Angler Leggings
+"ANGLER_BOOTS" Angler Boots
+"SQUID_BOOTS" Squid Boots
+"BAT_PERSON_CHESTPLATE" Bat Person Chestplate
+"BAT_PERSON_LEGGINGS" Bat Person Leggings
+"BAT_PERSON_BOOTS" Bat Person Boots
+"FARMER_BOOTS" Farmer Boots
+"RANCHERS_BOOTS" Rancher's Boots
+"FARM_SUIT_HELMET" Farm Suit Helmet
+"FARM_SUIT_CHESTPLATE" Farm Suit Chestplate
+"FARM_SUIT_LEGGINGS" Farm Suit Leggings
+"FARM_SUIT_BOOTS" Farm Suit Boots
+"FARM_ARMOR_HELMET" Farm Armor Helmet
+"FARM_ARMOR_CHESTPLATE" Farm Armor Chestplate
+"FARM_ARMOR_LEGGINGS" Farm Armor Leggings
+"FARM_ARMOR_BOOTS" Farm Armor Boots
+"SPEEDSTER_HELMET" Speedster Helmet
+"SPEEDSTER_CHESTPLATE" Speedster Chestplate
+"SPEEDSTER_LEGGINGS" Speedster Leggings
+"SPEEDSTER_BOOTS" Speedster Boots
+"CACTUS_HELMET" Cactus Helmet
+"CACTUS_CHESTPLATE" Cactus Chestplate
+"CACTUS_LEGGINGS" Cactus Leggings
+"CACTUS_BOOTS" Cactus Boots
+"MINER_OUTFIT_HELMET" Miner's Outfit Helmet
+"MINER_OUTFIT_CHESTPLATE" Miner's Outfit Chestplate
+"MINER_OUTFIT_LEGGINGS" Miner's Outfit Leggings
+"MINER_OUTFIT_BOOTS" Miner's Outfit Boots
+"MUSIC_PANTS" Stereo Pants
+"MUSHROOM_HELMET" Mushroom Helmet
+"MUSHROOM_CHESTPLATE" Mushroom Chestplate
+"MUSHROOM_LEGGINGS" Mushroom Leggings
+"MUSHROOM_BOOTS" Mushroom Boots
+"GUARDIAN_CHESTPLATE" Guardian Chestplate
+"CREEPER_LEGGINGS" Creeper Leggings
+"EMERALD_ARMOR_HELMET" Emerald Armor Helmet
+"EMERALD_ARMOR_CHESTPLATE" Emerald Armor Chestplate
+"EMERALD_ARMOR_LEGGINGS" Emerald Armor Leggings
+"EMERALD_ARMOR_BOOTS" Emerald Armor Boots
+"PUMPKIN_HELMET" Pumpkin Helmet
+"PUMPKIN_CHESTPLATE" Pumpkin Chestplate
+"PUMPKIN_LEGGINGS" Pumpkin Leggings
+"PUMPKIN_BOOTS" Pumpkin Boots
+"OBSIDIAN_CHESTPLATE" Obsidian Chestplate
+"LAPIS_ARMOR_CHESTPLATE" Lapis Armor Chestplate
+"LAPIS_ARMOR_LEGGINGS" Lapis Armor Leggings
+"LAPIS_ARMOR_BOOTS" Lapis Armor Boots
+"CHEAP_TUXEDO_CHESTPLATE" Cheap Tuxedo Chestplate
+"CHEAP_TUXEDO_LEGGINGS" Cheap Tuxedo Leggings
+"GROWTH_HELMET" Growth Helmet
+"GROWTH_CHESTPLATE" Growth Chestplate
+"GROWTH_LEGGINGS" Growth Leggings
+"GROWTH_BOOTS" Growth Boots
+"CHEAP_TUXEDO_BOOTS" Cheap Tuxedo Boots
+"CHEAP_TUXEDO_LEGGINGS" Cheap Tuxedo Leggings
+"CHEAP_TUXEDO_CHESTPLATE" Cheap Tuxedo Chestplate
+"FANCY_TUXEDO_CHESTPLATE" Fancy Tuxedo Chestplate
+"FANCY_TUXEDO_LEGGINGS" Fancy Tuxedo Leggings
+"FANCY_TUXEDO_BOOTS" Fancy Tuxedo Boots
+"ARMOR_OF_MAGMA_HELMET" Armor of Magma Helmet
+"ARMOR_OF_MAGMA_CHESTPLATE" Armor of Magma Chestplate
+"ARMOR_OF_MAGMA_LEGGINGS" Armor of Magma Leggings
+"ARMOR_OF_MAGMA_BOOTS" Armor of Magma Boots
